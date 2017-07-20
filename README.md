@@ -1,2 +1,2 @@
 # machine_learning
-Repo for all the machine and deep learning code that I have built over the years
+Repository for all the machine and deep learning code that I have built over the years
